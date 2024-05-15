@@ -43,6 +43,7 @@ A mosquito repellent PCB board functions by emitting ultrasonic waves or electro
 ![image](https://github.com/AsinVardhini/PCB-Design-Application/assets/119417735/467f1161-6e28-463b-a47e-19b95b9d3971)
 
 ### Layout diagram
+![image](https://github.com/AsinVardhini/PCB-Design-Application/assets/119417735/a3ce8f8e-355d-4f9f-9848-5819004b0701)
 
 
 
